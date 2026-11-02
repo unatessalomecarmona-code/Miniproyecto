@@ -1,0 +1,299 @@
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: (ninguno)
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Cargado: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Partidos creados: 28
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Escenario: Partidos programados: 28
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: #1 [FASE_REGULAR] Águilas 3 - 2 Titanes | 2026-11-02 09:00 en Estadio Central | FINALIZADO
+#2 [FASE_REGULAR] Águilas 2 - 1 Halcones | 2026-11-02 12:00 en Estadio Central | FINALIZADO
+#3 [FASE_REGULAR] Águilas 1 - 0 Pumas | 2026-11-02 15:00 en Estadio Central | FINALIZADO
+#4 [FASE_REGULAR] Águilas 0 - 2 Tigres | 2026-11-03 09:00 en Estadio Central | FINALIZADO
+#5 [FASE_REGULAR] Águilas 3 - 1 Lobos | 2026-11-03 12:00 en Estadio Central | FINALIZADO
+#6 [FASE_REGULAR] Águilas 2 - 0 Cóndores | 2026-11-03 15:00 en Estadio Central | FINALIZADO
+#7 [FASE_REGULAR] Águilas 1 - 2 Panteras | 2026-11-04 09:00 en Estadio Central | FINALIZADO
+#8 [FASE_REGULAR] Titanes 0 - 1 Halcones | 2026-11-04 12:00 en Estadio Central | FINALIZADO
+#9 [FASE_REGULAR] Titanes 3 - 0 Pumas | 2026-11-04 15:00 en Estadio Central | FINALIZADO
+#10 [FASE_REGULAR] Titanes 2 - 2 Tigres | 2026-11-05 09:00 en Estadio Central | FINALIZADO
+#11 [FASE_REGULAR] Titanes 1 - 1 Lobos | 2026-11-05 12:00 en Estadio Central | FINALIZADO
+#12 [FASE_REGULAR] Titanes 0 - 0 Cóndores | 2026-11-05 15:00 en Estadio Central | FINALIZADO
+#13 [FASE_REGULAR] Titanes 3 - 2 Panteras | 2026-11-06 09:00 en Estadio Central | FINALIZADO
+#14 [FASE_REGULAR] Halcones 2 - 1 Pumas | 2026-11-06 12:00 en Estadio Central | FINALIZADO
+#15 [FASE_REGULAR] Halcones 1 - 0 Tigres | 2026-11-06 15:00 en Estadio Central | FINALIZADO
+#16 [FASE_REGULAR] Halcones 0 - 2 Lobos | 2026-11-07 09:00 en Estadio Central | FINALIZADO
+#17 [FASE_REGULAR] Halcones 3 - 1 Cóndores | 2026-11-07 12:00 en Estadio Central | FINALIZADO
+#18 [FASE_REGULAR] Halcones 2 - 0 Panteras | 2026-11-07 15:00 en Estadio Central | FINALIZADO
+#19 [FASE_REGULAR] Pumas 1 - 2 Tigres | 2026-11-08 09:00 en Estadio Central | FINALIZADO
+#20 [FASE_REGULAR] Pumas 0 - 1 Lobos | 2026-11-08 12:00 en Estadio Central | FINALIZADO
+#21 [FASE_REGULAR] Pumas 3 - 0 Cóndores | 2026-11-08 15:00 en Estadio Central | FINALIZADO
+#22 [FASE_REGULAR] Pumas 2 - 2 Panteras | 2026-11-09 09:00 en Estadio Central | FINALIZADO
+#23 [FASE_REGULAR] Tigres 1 - 1 Lobos | 2026-11-09 12:00 en Estadio Central | FINALIZADO
+#24 [FASE_REGULAR] Tigres 0 - 0 Cóndores | 2026-11-09 15:00 en Estadio Central | FINALIZADO
+#25 [FASE_REGULAR] Tigres 3 - 2 Panteras | 2026-11-10 09:00 en Estadio Central | FINALIZADO
+#26 [FASE_REGULAR] Lobos 2 - 1 Cóndores | 2026-11-10 12:00 en Estadio Central | FINALIZADO
+#27 [FASE_REGULAR] Lobos 1 - 0 Panteras | 2026-11-10 15:00 en Estadio Central | FINALIZADO
+#28 [FASE_REGULAR] Cóndores 0 - 2 Panteras | 2026-11-11 09:00 en Estadio Central | FINALIZADO
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: #   Equipo          PJ  PG  PE  PP   GF   GC   DG  Pts
+--------------------------------------------------------
+1   Águilas          7   5   0   2   12    8   +4   15
+2   Halcones         7   5   0   2   10    6   +4   15
+3   Lobos            7   4   2   1    9    6   +3   14
+4   Tigres           7   3   3   1   10    7   +3   12
+5   Titanes          7   2   3   2   11    9   +2    9
+6   Panteras         7   2   1   4   10   12   -2    7
+7   Pumas            7   1   1   5    7   11   -4    4
+8   Cóndores         7   0   2   5    2   12  -10    2
+
+Líder: Águilas
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Clasificados: [Águilas (7 jugadores), Halcones (7 jugadores), Lobos (7 jugadores), Tigres (7 jugadores)]
+Partidos de la siguiente fase:
+#29 [SEMIFINAL] Águilas vs Tigres | sin fecha | SIN_PROGRAMAR
+#30 [SEMIFINAL] Halcones vs Lobos | sin fecha | SIN_PROGRAMAR
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Escenario: Partidos programados: 2
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: #29 [SEMIFINAL] Águilas 3 - 1 Tigres | 2026-11-12 09:00 en Estadio Central | FINALIZADO
+#30 [SEMIFINAL] Halcones 2 - 0 Lobos | 2026-11-12 12:00 en Estadio Central | FINALIZADO
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Clasificados: [Águilas (7 jugadores), Halcones (7 jugadores)]
+Partidos de la siguiente fase:
+#31 [FINAL] Águilas vs Halcones | sin fecha | SIN_PROGRAMAR
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Escenario: Partidos programados: 1
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: #31 [FINAL] Águilas 1 - 2 Halcones | 2026-11-13 09:00 en Estadio Central | FINALIZADO
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: El torneo terminó. Campeón: Halcones
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: El torneo terminó. Campeón: Halcones
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: --- Estadísticas de los jugadores ---
+Águilas J1     PJ:8  Goles:16  Asist:0  TA:0  TR:0  Pts:0  Faltas:8  Rend:48
+Halcones J1    PJ:5  Goles:10  Asist:0  TA:0  TR:0  Pts:0  Faltas:5  Rend:30
+Titanes J1     PJ:4  Goles:9  Asist:0  TA:0  TR:0  Pts:0  Faltas:4  Rend:27
+Pumas J1       PJ:3  Goles:6  Asist:0  TA:0  TR:0  Pts:0  Faltas:3  Rend:18
+Tigres J6      PJ:3  Goles:5  Asist:0  TA:1  TR:0  Pts:0  Faltas:3  Rend:14
+Tigres J1      PJ:2  Goles:4  Asist:0  TA:0  TR:0  Pts:0  Faltas:2  Rend:12
+Panteras J4    PJ:2  Goles:4  Asist:0  TA:0  TR:0  Pts:0  Faltas:2  Rend:12
+Panteras J5    PJ:2  Goles:4  Asist:0  TA:1  TR:0  Pts:0  Faltas:2  Rend:11
+Lobos J1       PJ:2  Goles:3  Asist:0  TA:0  TR:0  Pts:0  Faltas:2  Rend:9
+Lobos J3       PJ:2  Goles:3  Asist:0  TA:1  TR:0  Pts:0  Faltas:2  Rend:8
+Titanes J3     PJ:1  Goles:2  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:6
+Halcones J3    PJ:1  Goles:2  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:6
+Tigres J2      PJ:1  Goles:2  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:6
+Panteras J2    PJ:1  Goles:2  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:6
+Lobos J2       PJ:2  Goles:2  Asist:0  TA:1  TR:0  Pts:0  Faltas:2  Rend:5
+Halcones J4    PJ:1  Goles:1  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:3
+Pumas J6       PJ:1  Goles:1  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:3
+Lobos J5       PJ:1  Goles:1  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:3
+Cóndores J3    PJ:1  Goles:1  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:3
+Cóndores J4    PJ:1  Goles:1  Asist:0  TA:0  TR:0  Pts:0  Faltas:1  Rend:3
+Halcones J5    PJ:1  Goles:1  Asist:0  TA:1  TR:0  Pts:0  Faltas:1  Rend:2
+--- Jugadores destacados (top 3) ---
+Águilas J1     PJ:8  Goles:16  Asist:0  TA:0  TR:0  Pts:0  Faltas:8  Rend:48
+Halcones J1    PJ:5  Goles:10  Asist:0  TA:0  TR:0  Pts:0  Faltas:5  Rend:30
+Titanes J1     PJ:4  Goles:9  Asist:0  TA:0  TR:0  Pts:0  Faltas:4  Rend:27
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Nombre del equipo: [FASE_REGULAR] vs Águilas  0 - 1  (P)
+[FASE_REGULAR] vs Titanes  0 - 3  (P)
+[FASE_REGULAR] vs Halcones  1 - 2  (P)
+[FASE_REGULAR] vs Tigres  1 - 2  (P)
+[FASE_REGULAR] vs Lobos  0 - 1  (P)
+[FASE_REGULAR] vs Cóndores  3 - 0  (G)
+[FASE_REGULAR] vs Panteras  2 - 2  (E)
+
+===== GESTIÓN DE TORNEOS =====
+Torneo actual: Copa TdeA | Liga (todos contra todos) | Fútbol | 8 equipos
+ 1. Crear torneo                 2. Registrar equipo
+ 3. Agregar jugador a un equipo  4. Generar calendario
+ 5. Programar partidos           6. Registrar resultado
+ 7. Registrar estadística        8. Ver tabla de posiciones
+ 9. Partidos programados        10. Partidos finalizados
+11. Estadísticas y destacados   12. Historial de un equipo
+13. Clasificados y siguiente fase 14. Retirar equipo
+15. Cargar situación especial (8 equipos)
+16. Simular resultados de los partidos programados
+17. Cambiar de torneo            0. Salir
+Opción: Hasta pronto.

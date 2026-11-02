@@ -1,0 +1,49 @@
+OK Un equipo no puede enfrentarse consigo mismo
+      -> Un equipo no puede enfrentarse consigo mismo.
+OK No se registra resultado de un partido sin programar
+      -> No se puede registrar el resultado: el partido #1 todavía no ha sido programado.
+OK Un equipo debe tener el mínimo de jugadores
+      -> Pocos no tiene el mínimo de 7 jugadores para Fútbol.
+OK Un equipo no puede tener dos partidos simultáneos
+      -> A ya tiene un partido en ese horario.
+OK Un escenario no se usa en dos partidos a la vez
+      -> El escenario Estadio 1 está ocupado en ese horario.
+OK Un jugador no puede estar en dos equipos del mismo torneo
+      -> Repetido ya pertenece a A en este torneo; no puede estar en dos equipos.
+OK El equipo debe ser de la disciplina del torneo
+      -> El equipo Basket es de Baloncesto y el torneo es de Fútbol.
+OK No se acepta un resultado con valores negativos
+      -> El resultado no puede tener valores negativos.
+OK Un partido finalizado no se vuelve a registrar
+      -> El partido #1 ya está finalizado; modificarlo requiere autorización.
+OK Un partido finalizado no se modifica sin autorización
+      -> Un partido finalizado no puede modificarse sin autorización.
+OK Con autorización sí se puede corregir un partido finalizado
+OK La tabla calcula los puntos automáticamente (A: 3 pts, B: 0)
+OK Las estadísticas se actualizan tras el resultado (1 gol, 1 partido)
+OK Una tarjeta roja expulsa al jugador
+OK Un jugador expulsado no puede participar
+      -> A J1 está EXPULSADO y no puede participar en un partido.
+OK No se repite la estadística de un jugador en un partido
+      -> A J2 ya tiene estadística en este partido.
+OK Una estadística no puede ser negativa
+      -> Las estadísticas no pueden ser negativas.
+OK Un jugador con 1 amarilla sigue activo
+OK La tercera amarilla acumulada suspende al jugador
+OK No hay siguiente fase mientras haya partidos sin terminar
+      -> Todavía hay partidos sin terminar en: FASE_REGULAR.
+OK Los clasificados deben formar llaves (2, 4 u 8)
+      -> No hay una fase eliminatoria para 3 equipos (use 2, 4 u 8).
+OK Un equipo retirado no puede continuar participando
+      -> Un equipo retirado no puede continuar participando.
+OK Un partido cancelado no afecta la tabla de posiciones
+OK No se registra resultado de un partido cancelado
+      -> El partido #1 fue cancelado.
+OK En eliminación directa no hay empates
+      -> Este torneo no admite empates: debe haber un ganador.
+OK No se registran equipos cuando el calendario ya fue generado
+      -> El calendario ya fue generado; no se aceptan más equipos.
+OK Eliminación: el ganador de la final es el campeón
+OK Polimorfismo: cada formato responde distinto a getTipo()
+
+Reglas verificadas: 28 de 28
